@@ -1,16 +1,19 @@
-## Hi there 👋
+# Iolo Spier's GitHub
 
-<!--
-**iolospier/iolospier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my GitHub
 
-Here are some ideas to get you started:
+Currently a Physics with Theoretical Physics student at Imperial College London, I focus on data-driven problem-solving using Python, MATLAB, and statistical analysis. My repository showcases projects involving quantitative finance, algorithmic trading, and advanced data science techniques. Here, you'll find examples of my work, including automated trading algorithms, financial models, and research simulations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Key Areas of Interest
+- **Quantitative Finance**: Developing trading strategies, leveraging machine learning, and conducting market analysis.
+- **Data Science**: Building and refining models for predictive analysis, optimisation, and statistical inference.
+- **Scientific Computing**: Applying computational methods to model complex systems and solve advanced physics problems.
+
+Feel free to explore my projects or reach out for collaboration opportunities.
+
+
+
+
+
+
+
